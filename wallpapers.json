@@ -1,0 +1,142 @@
+{
+  "Collections": [
+    {
+      "name": "	ProjectTitaniumTeam",
+      "preview_url": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/ProjectTianiumTeam/wall1.jpg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/ProjecctTitaniumTeam/wall1.jpg"
+    },
+    {
+      "name": "CommunityCreations",
+      "preview_url": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/Community Creations/wall1.jpg",
+      "preview_thumbnail_url": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/CommunityCreations/wall1.jpg"
+    }
+  ],
+  "Wallpapers": [
+    {
+      "name": "Wallpaper 1",
+      "author": "XTutorials",
+      "url": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/ProjectTitaniumTeam/wall1.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/ProjectTitaniumTeam/wall1.jpg",
+      "collections": "projecttitaniumteam"
+    },
+    {
+      "name": "Wallpaper 2",
+      "author": "XTutorials",
+      "url": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/ProjectTitaniumTeam/wall2.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/ProjectTitaniumTeam/wall2.jpg",
+      "collections": "projecttitaniumteam"
+    },
+    {
+      "name": "Wallpaper 3",
+      "author": "XTutorials",
+      "url": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/ProjectTitaniumTeam/wall3.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/ProjectTitaniumTeam/wall3.jpg",
+      "collections": "projecttitaniumteam"
+    },
+    {
+      "name": "Wallpaper 4",
+      "author": "XTutorials",
+      "url": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/ProjectTitaniumTeam/wall4.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/ProjectTitaniumTeam/wall4.jpg",
+      "collections": "projecttitaniumteam"
+    },
+    {
+      "name": "Wallpaper 5",
+      "author": "XTutorials",
+      "url": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/ProjectTitaniumTeam/wall5.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/ProjectTitaniumTeam/wall5.jpg",
+      "collections": "projecttitaniumteam"
+    },
+    {
+      "name": "Wallpaper 6",
+      "author": "XTutorials",
+      "url": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/ProjectTitaniumTeam/wall6.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/ProjectTitaniumTeam/wall6.jpg",
+      "collections": "projecttitaniumteam"
+    },
+    {
+      "name": "Wallpaper 7",
+      "author": "XTutorials",
+      "url": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/ProjectTitaniumTeam/wall7.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/ProjectTitaniumTeam/wall7.jpg",
+      "collections": "projecttitaniumteam"
+    },
+    {
+      "name": "Wallpaper 8",
+      "author": "XTutorials",
+      "url": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/ProjectTitaniumTeam/wall8.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/ProjectTitaniumTeam/wall8.jpg",
+      "collections": "projecttitaniumteam"
+    },
+    {
+      "name": "Wallpaper 9",
+      "author": "XTutorials",
+      "url": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/ProjectTitaniumTeam/wall9.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/ProjectTitaniumTeam/wall9.jpg",
+      "collections": "projecttitaniumteam""
+    },
+    {
+      "name": "Community Wallpaper 1",
+      "author": "Kaushal Prajapati",
+      "url": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/CommunityCreations/wall1.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/CommunityCreations/wall1.jpg",
+      "collections": "communitycreations"
+    },
+    {
+      "name": "Community Wallpaper 2",
+      "author": "Kaushal Prajapati",
+      "url": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/CommunityCreations/wall2.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/CommunityCreations/wall2.jpg",
+      "collections": "communitycreations"
+    },
+    {
+      "name": "Community Wallpaper 3",
+      "author": "Kaushal Prajapati",
+      "url": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/CommunityCreations/wall3.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/CommunityCreations/wall3.jpg",
+      "collections": "communitycreations"
+    },
+    {
+      "name": "Community Wallpaper 4",
+      "author": "Kaushal Prajapati",
+      "url": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/CommunityCreations/wall4.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/CommunityCreations/wall4.jpg",
+      "collections": "communitycreations"
+    },
+    {
+      "name": "Community Wallpaper 5",
+      "author": "Kaushal Prajapati",
+      "url": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/CommunityCreations/wall5.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/CommunityCreations/wall5.jpg",
+      "collections": "communitycreations"
+    },
+    {
+      "name": "Community Wallpaper 6",
+      "author": "Kaushal Prajapati",
+      "url": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/CommunityCreations/wall6.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/CommunityCreations/wall6.jpg",
+      "collections": "communitycreations"
+    },
+    {
+      "name": "Community Wallpaper 7",
+      "author": "Kaushal Prajapati",
+      "url": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/CommunityCreations/wall7.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/CommunityCreations/wall7.jpg",
+      "collections": "communitycreations"
+    },
+    {
+      "name": "Community Wallpaper 8",
+      "author": "Kaushal Prajapati",
+      "url": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/CommunityCreations/wall8.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/CommunityCreations/wall8.jpg",
+      "collections": "communitycreations"
+    },
+    {
+      "name": "Community Wallpaper 9",
+      "author": "Kaushal Prajapati",
+      "url": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/CommunityCreations/wall9.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/Project-Titanium/TiPapers/tipapers/CommunityCreations/wall9.jpg",
+      "collections": "communitycreations"
+    }
+  ]
+}
